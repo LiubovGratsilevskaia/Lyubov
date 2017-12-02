@@ -1,0 +1,22 @@
+body {
+    background: floralwhite ;
+}
+h1{
+    font-size: 60px ;
+    color: maroon;
+}
+p {
+    text-align: justify;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
+h2 strong a {
+    color: navy ;
+}
+#hit  {
+    border: 3px solid black;
+}
